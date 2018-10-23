@@ -1,0 +1,11 @@
+{ application
+, my
+, [ {description, "my app"}
+  , {vsn, "1.0.0"}
+  , {modules, []}
+  , {registered, []}
+  , {mod, {'none', []}}
+  , {env, []}
+  , {applications, []}
+  ]
+}.
